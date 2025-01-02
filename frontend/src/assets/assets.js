@@ -75,6 +75,7 @@ import return_icon from './return icon.png'
 import customer_support from './customer support.png'
 import cross_icon from './cross icon.png'
 import star_icon from './star icon.png'
+import bin_icon from './bin.png'
 
 export const assets = {
     logo,
@@ -88,7 +89,8 @@ export const assets = {
     return_icon,
     customer_support,
     cross_icon,
-    star_icon
+    star_icon,
+    bin_icon,
 }
 
 export const products = [
