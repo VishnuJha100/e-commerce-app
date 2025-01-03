@@ -79,6 +79,7 @@ import bin_icon from './bin.png'
 import razorpay_logo from './razorpay.png'
 import stripe_logo from './stripe.png'
 import upi_logo from './upi.png'
+import contact from './contact.png'
 
 export const assets = {
     logo,
@@ -96,7 +97,8 @@ export const assets = {
     bin_icon,
     razorpay_logo,
     stripe_logo,
-    upi_logo
+    upi_logo,
+    contact,
 }
 
 export const products = [
